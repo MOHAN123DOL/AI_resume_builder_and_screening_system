@@ -62,5 +62,4 @@ django-celery-results==2.6.0
 # Rich Logging
 rich==14.1.0
 
-# for config
-config-0.5.1
+django-extensions==4.1
