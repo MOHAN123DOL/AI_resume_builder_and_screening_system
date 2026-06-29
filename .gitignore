@@ -1,0 +1,71 @@
+# # Python
+# __pycache__/
+# *.py[cod]
+# *$py.class
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Environment Variables
+.env
+
+# # Django
+# db.sqlite3
+# *.sqlite3
+
+# # Static & Media
+# media/
+# staticfiles/
+
+# Logs
+logs/
+*.log
+
+# Coverage
+.coverage
+htmlcov/
+.pytest_cache/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Migrations (Optional)
+# **/migrations/*
+# !**/migrations/__init__.py
+
+# # Celery
+# celerybeat-schedule
+
+# Redis Dump
+dump.rdb
+
+# Secrets
+*.pem
+*.key
+*.crt
+
+# Cache
+.cache/
+
+# MyPy
+.mypy_cache/
+
+# Ruff
+.ruff_cache/
+
+# Temporary
+*.tmp
